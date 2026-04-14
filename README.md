@@ -18,7 +18,7 @@ PRISM uses a multimodal clinical pipeline with ECG and EHR representations, foll
 
 Architecture figure location:
 
-- [Figure 2: PRISM Architecture](figures/Fig2.pdf)
+- [Figure 2: PRISM Architecture](figures/Fig2.png)
 
 
 ## Running This Repository
