@@ -20,9 +20,6 @@ Architecture figure location:
 
 - [Figure 2: PRISM Architecture](figures/Fig2.pdf)
 
-If the figure is not added yet, place it at:
-
-- `figures/Fig2.pdf`
 
 ## Running This Repository
 
