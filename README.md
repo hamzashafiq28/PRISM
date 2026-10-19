@@ -2,12 +2,6 @@
 
 # PRISM
 
-### Retrieval-Augmented Multimodal Language Model with Heterogeneous Evidence Integration for Clinical Prognosis
-
-**Hamza Shafiq · Jialu Tang · Ting Dang · Jun Hu · Aaqib Saeed**
-
-<img src="figures/prism_animation.gif" alt="PRISM multimodal clinical prognosis method animation" width="860" />
-
 <br/>
 
 [![TMLR 2026](https://img.shields.io/badge/TMLR-2026-8A2BE2)](https://openreview.net/forum?id=5ChJTFLi5r)
@@ -16,6 +10,12 @@
 [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-blue)](https://openreview.net/forum?id=5ChJTFLi5r)
 [![Project Page](https://img.shields.io/badge/Project-Website-1572B6?logo=googlechrome&logoColor=white)](https://hamzashafiq28.github.io/projects/PRISM/)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/hamzashafiq28/PRISM)
+
+### Retrieval-Augmented Multimodal Language Model with Heterogeneous Evidence Integration for Clinical Prognosis
+
+**Hamza Shafiq · Jialu Tang · Ting Dang · Jun Hu · Aaqib Saeed**
+
+<img src="figures/prism_animation.gif" alt="PRISM multimodal clinical prognosis method animation" width="860" />
 
 *Accepted at Transactions on Machine Learning Research (TMLR), 2026.*
 
