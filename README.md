@@ -66,8 +66,21 @@ bash prism.sh
 ```
 
 Outputs are written to `OUTPUT_DIR` (predictions, summary JSON/CSV, and analysis artifacts).
-<!-- 
+
 ## Citation
 
-If you use this code, cite the PRISM manuscript: -->
+If you use this code, cite the PRISM manuscript: 
+
+```bash
+@article{
+shafiq2026retrievalaugmented,
+title={Retrieval-Augmented Multimodal Language Model with Heterogeneous Evidence Integration for Clinical Prognosis},
+author={Hamza Shafiq and Jialu Tang and Ting Dang and Jun Hu and Aaqib Saeed},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2026},
+url={https://openreview.net/forum?id=5ChJTFLi5r},
+note={}
+}
+```
 
