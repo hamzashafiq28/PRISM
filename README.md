@@ -1,8 +1,5 @@
 <div align="center">
 
-# PRISM
-
-<br/>
 
 [![TMLR 2026](https://img.shields.io/badge/TMLR-2026-8A2BE2)](https://openreview.net/forum?id=5ChJTFLi5r)
 [![arXiv](https://img.shields.io/badge/arXiv-2610.13510-B31B1B?logo=arxiv)](https://arxiv.org/abs/2610.13510)
@@ -10,6 +7,8 @@
 [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-blue)](https://openreview.net/forum?id=5ChJTFLi5r)
 [![Project Page](https://img.shields.io/badge/Project-Website-1572B6?logo=googlechrome&logoColor=white)](https://hamzashafiq28.github.io/projects/PRISM/)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/hamzashafiq28/PRISM)
+
+# PRISM
 
 ### Retrieval-Augmented Multimodal Language Model with Heterogeneous Evidence Integration for Clinical Prognosis
 
